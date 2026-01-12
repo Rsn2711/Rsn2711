@@ -58,6 +58,19 @@
 
 ---
 
+## 🏆 Achievements
+- 🎓 Internship in Blockchain, Big Data & Data Science – NIELIT Kolkata  
+- 🧠 Patent offer from Jadavpur University for Smart Lift System  
+- 💻 500+ DSA problems solved on LeetCode  
+
+---
+
+## 🧠 Portfolio
+👉 https://rsn-portfolio.vercel.app/
+
+---
+
+
 ## 📊 GitHub Performance
 
 <p align="center">
