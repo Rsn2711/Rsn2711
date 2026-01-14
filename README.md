@@ -1,7 +1,9 @@
 <!-- ===================== -->
 <!-- 🌟 PROFESSIONAL HERO -->
 <!-- ===================== -->
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=2000&color=A9A9A9&center=true&vCenter=true&width=760&repeat=false&cursor=false&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Raushan%20Kumar&fontSize=52&fontAlignY=38&desc=Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Explorer&descAlignY=62&animation=fadeIn" />
@@ -55,18 +57,26 @@
 
 ---
 
-## 🧠 Tech Stack
+## 💡 Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nextjs,nodejs,nestjs,fastapi,flask,mongodb,mysql,firebase,aws,gcp,vercel,tailwind,bootstrap,opencv,figma,git,github,postman&perline=8" />
-</p>
+| **Category** | **Tools & Technologies** |
+|-------------|--------------------------|
+| **Programming Languages** | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Backend & Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Tools & Technologies** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white) |
+| **Core CS Concepts** | 📘 Data Structures & Algorithms (DSA) · 🧩 Object-Oriented Programming (OOP) · 🌐 Computer Networks |
+
+
 
 ---
 
-## 🏆 Achievements
-- 🎓 Internship in Blockchain, Big Data & Data Science – NIELIT Kolkata  
-- 🧠 Patent offer from Jadavpur University for Smart Lift System  
-- 💻 500+ DSA problems solved on LeetCode  
+## Achievements
+
+- **Internship:** Blockchain, Big Data & Data Science — *NIELIT Kolkata*
+- **Patent Offer:** Smart Lift System — *Jadavpur University*
+- **500+ DSA Problems Solved** — *LeetCode*
+
 
 ---
 
@@ -76,42 +86,16 @@
 ---
 
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rsn2797&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rsn2797&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsn2797&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Highlights & Recognition
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rsn2797&theme=flat&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## ✨ Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=Consistency+beats+talent." alt="Typing SVG" />
 </p>
+
 
 ---
 
-## 🔝 Contribution Impact
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rsn2797&limit=5&combine_all_yearly_contributions=true"/>
-</p>
-
----
 
 ## 💖 Support My Work
 
@@ -127,9 +111,8 @@ If you find my work useful, consider supporting my learning and open-source cont
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rsn2797&icon=2&color=1"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 
 <!-- ===================== -->
 <!-- 🚀 END OF README -->
