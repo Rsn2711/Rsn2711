@@ -7,6 +7,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Raushan%20Kumar&fontSize=52&fontAlignY=38&desc=Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Explorer&descAlignY=62&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=4F8CFF&center=true&vCenter=true&width=760&lines=Building+Clean+and+Scalable+Software;Engineer+Focused+on+Quality+and+Impact;Learning+Continuously+and+Shipping+Reliably" />
+<p align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Rsn2797&style=flat&color=blue"/>
+</p>
+
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
